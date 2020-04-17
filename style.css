@@ -2,27 +2,53 @@
 
 body {
   font-family: "Quicksand", sans-serif;
-  margin: 0;
   background-color: #e5e1db;
+  margin: 0;
 }
 nav {
   background-color: #5a716c;
 }
 
 li {
-  display: inline;
+  display: inline-block;
+  float: none;
 }
 
 li a {
-  padding: 14px 16px;
+  display: block;
   color: #ffffff;
   text-decoration: none;
+  padding: 20px 50px;
+}
+
+li a:hover {
+  font-weight: bold;
 }
 
 ul {
-  text-align: center;
   list-style-type: none;
-  margin: 0;
-  padding: 25px;
+  text-align: center;
+  display: table;
   overflow: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f1f1f1;
+  color: #ce7092;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding: 30px;
+}
+
+.footer-text {
+  text-align: center;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
 }
