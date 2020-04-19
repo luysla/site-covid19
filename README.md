@@ -6,3 +6,6 @@ Esse é um dos assignments da semana onde o desafio é criar uma página com HTM
 sobre o vírus COVID-19</p>
 
 <a href="https://portal-noticiascovid19.netlify.app/">Acesse aqui</a> a página
+
+![image](https://user-images.githubusercontent.com/19508155/79700966-5eaf2380-8267-11ea-8231-1b0a867c7e3f.png)
+
