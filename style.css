@@ -98,6 +98,7 @@ section {
 
 .footer-text {
   text-align: center;
+  font-weight: bold;
 }
 
 .logo {
@@ -135,4 +136,17 @@ section {
 #saibamais {
   padding: 50px;
   text-align: center;
+}
+#noticias {
+  padding-bottom: 900px;
+}
+
+.voltar {
+  float: right;
+}
+
+.voltar a {
+  font-weight: bold;
+  color: #000;
+  text-decoration: none;
 }
