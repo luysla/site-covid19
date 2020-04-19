@@ -69,11 +69,31 @@ footer {
 
 img {
   width: 350px;
-  box-shadow: 20px tomato;
 }
 
 section {
   padding-bottom: 50px;
+}
+
+.redes {
+  float: right;
+  padding-right: 80px;
+}
+
+#sobremim {
+  margin: 100px;
+}
+
+#sobremim img {
+  padding-right: 60px;
+  float: left;
+  width: 180px;
+}
+
+#sobremim p {
+  padding-top: 20px;
+  width: 1000px;
+  text-align: justify;
 }
 
 .footer-text {
