@@ -8,12 +8,21 @@ body {
   margin: 0;
 }
 nav {
-  background-color: #798f8c;
+  background-color: #b31c01;
 }
 
 li {
   display: inline-block;
   float: none;
+}
+
+h1 {
+  text-decoration: underline;
+  text-decoration-color: #b31c01;
+}
+
+h4 {
+  background-color: #e5e1db;
 }
 
 li a {
@@ -46,12 +55,7 @@ header {
 }
 
 header h1 {
-  color: #ce7092;
   font-weight: bold;
-}
-
-header p {
-  font-weight: initial;
 }
 
 section {
@@ -65,10 +69,11 @@ footer {
 
 img {
   width: 350px;
+  box-shadow: 20px tomato;
 }
 
 section {
-  padding: 50px;
+  padding-bottom: 50px;
 }
 
 .footer-text {
@@ -88,7 +93,7 @@ section {
 
 .column {
   float: left;
-  width: 33.33%;
+  width: 30%;
   padding: 15px;
   text-align: center;
 }
