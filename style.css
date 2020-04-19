@@ -121,3 +121,13 @@ section {
 .column p {
   text-align: justify;
 }
+
+#contato h3 {
+  padding: 20px;
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+  padding: 50px;
+}
