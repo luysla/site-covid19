@@ -150,3 +150,47 @@ section {
   color: #000;
   text-decoration: none;
 }
+
+/* Responsividade */
+@media (max-width: 600px) {
+  iframe,
+  .column {
+    width: 100%;
+  }
+
+  .column p,
+  h4 {
+    width: 95%;
+  }
+
+  figurecaption {
+    padding: 10px;
+  }
+
+  footer {
+    margin-top: 2050px;
+  }
+
+  li a {
+    padding: 20px 20px;
+  }
+
+  .sb,
+  .ct,
+  .sm {
+    margin-top: 10px;
+  }
+
+  #sobremim p {
+    padding-top: 200px;
+    width: 100%;
+  }
+
+  .redes {
+    padding-right: 5px;
+  }
+
+  footer .voltar {
+    padding-right: 130px;
+  }
+}
